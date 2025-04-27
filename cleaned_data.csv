@@ -1,0 +1,51 @@
+State,Murder,Assault,UrbanPop,Rape,Cluster,Crime_Index,Region
+Alabama,13.2,236,58,21.2,0,82.1,South
+Alaska,10.0,263,48,44.5,0,91.375,West
+Arizona,8.1,294,80,31.0,0,103.275,West
+Arkansas,8.8,190,50,19.5,2,67.075,South
+California,9.0,276,91,40.6,0,104.15,West
+Colorado,7.9,204,78,38.7,2,82.14999999999999,West
+Connecticut,3.3,110,77,11.1,2,50.35,Northeast
+Delaware,5.9,238,72,15.8,0,82.925,South
+Florida,15.4,335,80,31.9,0,115.57499999999999,South
+Georgia,17.4,211,60,25.8,0,78.55,South
+Hawaii,5.3,46,83,20.2,1,38.625,West
+Idaho,2.6,120,54,14.2,2,47.699999999999996,West
+Illinois,10.4,249,83,24.0,0,91.6,Midwest
+Indiana,7.2,113,65,21.0,2,51.55,Midwest
+Iowa,2.2,56,57,11.3,1,31.625,Midwest
+Kansas,6.0,115,66,18.0,2,51.25,Midwest
+Kentucky,9.7,109,52,16.3,2,46.75,South
+Louisiana,15.4,249,66,22.2,0,88.14999999999999,South
+Maine,2.1,83,51,7.8,1,35.975,Northeast
+Maryland,11.3,300,67,27.8,0,101.525,South
+Massachusetts,4.4,149,85,16.3,2,63.675000000000004,Northeast
+Michigan,12.1,255,74,35.1,0,94.05000000000001,Midwest
+Minnesota,2.7,72,66,14.9,1,38.9,Midwest
+Mississippi,16.1,259,44,17.1,0,84.05000000000001,South
+Missouri,9.0,178,70,28.2,2,71.3,Midwest
+Montana,6.0,109,53,16.4,2,46.1,West
+Nebraska,4.3,102,62,16.5,1,46.2,Midwest
+Nevada,12.2,252,81,46.0,0,97.8,West
+New Hampshire,2.1,57,56,9.5,1,31.15,Northeast
+New Jersey,7.4,159,89,18.8,2,68.55,Northeast
+New Mexico,11.4,285,70,32.1,0,99.625,West
+New York,11.1,254,86,26.1,0,94.30000000000001,Northeast
+North Carolina,13.0,337,45,16.1,0,102.775,South
+North Dakota,0.8,45,44,7.3,1,24.275,Midwest
+Ohio,7.3,120,75,21.4,2,55.925000000000004,Midwest
+Oklahoma,6.6,151,68,20.0,2,61.4,South
+Oregon,4.9,159,67,29.3,2,65.05,West
+Pennsylvania,6.3,106,72,14.9,2,49.800000000000004,Northeast
+Rhode Island,3.4,174,87,8.3,2,68.175,Northeast
+South Carolina,14.4,279,48,22.5,0,90.975,South
+South Dakota,3.8,86,45,12.8,1,36.900000000000006,Midwest
+Tennessee,13.2,188,59,26.9,2,71.77499999999999,South
+Texas,12.7,201,80,25.5,2,79.8,South
+Utah,3.2,120,80,22.9,2,56.525,West
+Vermont,2.2,48,32,11.2,1,23.35,Northeast
+Virginia,8.5,156,63,20.7,2,62.05,South
+Washington,4.0,145,73,26.2,2,62.05,West
+West Virginia,5.7,81,39,9.3,1,33.75,South
+Wisconsin,2.6,53,66,10.8,1,33.1,Midwest
+Wyoming,6.8,161,60,15.6,2,60.85,West
